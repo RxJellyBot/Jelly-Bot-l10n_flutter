@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   l10n:
-    path: ../l10n
+    git: https://github.com/RxJellyBot/Jelly-Bot-l10n.git
 
 dev_dependencies:
   flutter_test:

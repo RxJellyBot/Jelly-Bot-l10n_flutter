@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:l10n/l10n.dart';
 import 'package:l10n_flutter/l10n_flutter.dart';
-import 'assetBundle_test.dart';
+import 'assetBundle.dart';
 
 void main() {
   test('test string resource', () async {
