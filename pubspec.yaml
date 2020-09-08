@@ -1,8 +1,8 @@
 name: l10n_flutter
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: Flutter localization manager for Jelly Bot.
+version: 0.1.0
+author: Ryo <ryodci@gmail.com>, RaenonX <raenonx0710@gmail.com>
+homepage: https://github.com/RxJellyBot/Jelly-Bot-l10n_flutter
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -12,7 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
   l10n:
-    git: https://github.com/RxJellyBot/Jelly-Bot-l10n.git
+    git:
+      url: https://github.com/RxJellyBot/Jelly-Bot-l10n.git
+      ref: dev
 
 dev_dependencies:
   flutter_test:
