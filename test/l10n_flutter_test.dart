@@ -5,8 +5,6 @@ import 'assetBundle.dart';
 
 void main() {
   test('test string resource', () async {
-    TestWidgetsFlutterBinding.ensureInitialized();
-
     await I18n.initialize(
         assetBundle: TestAssetBundle(),
         fallbackLocale: LocaleProvider.desired('en-us'),

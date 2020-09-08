@@ -1,0 +1,11 @@
+{
+    "default": "en-us",
+    "config": {
+        "en-us": {
+            "stringPath": "assets/res@en-us/res@string.json"
+        },
+        "zh-tw": {
+            "stringPath": "assets/res@zh-tw/res@string.json"
+        }
+    }
+}
