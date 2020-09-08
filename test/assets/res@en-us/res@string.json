@@ -1,6 +1,6 @@
 {
-    "12345": "fuck you mama",
+    "12345": "first blood",
     "23456": "hahhhhh!?",
-    "34567": "${key:##.##} mother fucker",
-    "45678": "${key:HH:mm:ss} hehehe~"
+    "34567": "%{key|##.##} mdfk",
+    "45678": "%{key|HH:mm:ss} hehehe~"
 }
